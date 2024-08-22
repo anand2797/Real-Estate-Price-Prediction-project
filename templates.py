@@ -25,7 +25,7 @@ files = [
       f"src/{project_name}/utils.py",
 
       "app.py", 
-      "requirements.py",
+      "requirements.txt",
       "setup.py",
 
       "README.md",
